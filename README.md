@@ -41,9 +41,9 @@ Web Development:
 
 <h2>📞 Contact</h2>
 <p align="center">
-    <a href="https://github.com/daniellcprg"><img src="Github.png" width="100px" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/daniellcprg"><img src="Linkedin.png" width="100px" alt="Linkedin"/></a>
-    <a href="mailto:daniellc.prg@gmail.com"><img src="Email.png" width="100px" alt="Email"/></a>
+    <a href="https://github.com/daniellcprg"><img src="Github.png" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/daniellcprg"><img src="Linkedin.png" alt="Linkedin"/></a>
+    <a href="mailto:daniellc.prg@gmail.com"><img src="Email.png" alt="Email"/></a>
 </p>
 
 ------------
