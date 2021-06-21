@@ -51,6 +51,8 @@ Good practices and Design Patterns:
 - Clean Code
 - TDD
 - DDD
+- CI
+- CD
 
 
 <h2>📞 Contact</h2>
