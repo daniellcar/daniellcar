@@ -8,7 +8,7 @@ I'm always open to new knowledge.
 
 <h2>💼 Job</h2>
 
-I'm currently Full Stack Developer at the [Byefive](https://byefive.com.br/) company.
+I'm currently Full Stack Developer at [Byefive](https://byefive.com.br/) company.
 
 <h2>🎓 Academic</h2>
 I'm currently graduating at IFSP (Federal Institute of Education, Science and Technology of São Paulo) as a Computer Engineer.
