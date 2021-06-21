@@ -2,7 +2,7 @@
 
 Hi, my name is Daniel Carvalho. I'm from Brazil and I'm software developer, and sometimes, musician 🎵 and soccer player ⚽.
 
-I'm 22, and I study web development since 2017.
+I'm 22, and I study web and mobile development since 2017.
 
 I'm always open to new knowledge.
 
