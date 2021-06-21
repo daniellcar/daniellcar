@@ -15,18 +15,22 @@ I'm currently graduating at IFSP (Federal Institute of Education, Science and Te
 
 <h2>🧠 Knowledge</h2>
 
-Web Development:
+Languages:
+
+| Language     | Skill Level |
+| :----------: | :---------: |
+| Javascript   | Experient   |
+| Python       | Average     |
+| Dart         | Beginner    |
+| HTML         | Experient   | 
+| CSS, SASS    | Experient   |
+
+Technologies:
 
 | Technology   | Skill Level |
 | :----------: | :---------: |
-| HTML         | Experient   | 
-| CSS, SASS    | Experient   | 
-| JavaScript   | Experient   |
-| Typescript   | Experient   |
-| Python       | Average     |
-| Dart         | Beginner    |
-| SQL          | Experient   |
-| NoSQL        | Experient   |
+| PostgreSQL   | Experient   |
+| MySQL        | Average     |
 | NodeJS       | Experient   |
 | Svelte       | Beginner    |
 | ReactJS      | Experient   |
@@ -38,6 +42,16 @@ Web Development:
 | Firebase     | Average     |
 | Google Cloud | Average     |
 | GIT          | Experient   |
+
+Good practices and Design Patterns:
+
+- OOP
+- Functional Programming
+- SOLID
+- Clean Code
+- TDD
+- DDD
+
 
 <h2>📞 Contact</h2>
 <p align="center">
