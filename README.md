@@ -8,7 +8,7 @@ I'm always open to new knowledge.
 
 <h2>💼 Job</h2>
 
-I'm currently Full Stack Developer and Back-End Tech Lead at [Byefive](https://byefive.com.br/).
+I'm currently Full Stack Developer and Backend Tech Lead at [Byefive](https://byefive.com.br/).
 
 <h2>🎓 Academic</h2>
 I'm currently graduating at IFSP (Federal Institute of Education, Science and Technology of São Paulo) as a Computer Engineer.
