@@ -8,10 +8,10 @@ I'm always open to new knowledge.
 
 <h2>💼 Job</h2>
 
-I'm currently Full Stack Developer and Backend Tech Lead at [Byefive](https://byefive.com.br/).
+I'm currently mid-level back-end developer at [Tecnospeed](https://tecnospeed.com.br/).
 
 <h2>🎓 Academic</h2>
-I'm currently graduating at IFSP (Federal Institute of Education, Science and Technology of São Paulo) as a Computer Engineer.
+I'm currently graduating at Estacio University as software engineer.
 
 <h2>🧠 Knowledge</h2>
 
