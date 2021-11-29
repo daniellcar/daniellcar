@@ -8,7 +8,7 @@ I'm always open to new knowledge.
 
 <h2>💼 Job</h2>
 
-I'm currently mid-level back-end developer at [Tecnospeed](https://tecnospeed.com.br/).
+I'm currently mid-level back-end developer at [TecnoSpeed](https://tecnospeed.com.br/).
 
 <h2>🎓 Academic</h2>
 I'm currently graduating at Estacio University as software engineer.
