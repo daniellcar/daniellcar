@@ -2,13 +2,13 @@
 
 Hi, my name is Daniel Carvalho. I'm from Brazil and I'm software developer, and sometimes, musician 🎵 and soccer player ⚽.
 
-I'm 22, and I study web and mobile development since 2017.
+I'm 23, and I study web and mobile development since 2017.
 
 I'm always open to new knowledge.
 
 <h2>💼 Job</h2>
 
-I'm currently mid-level back-end developer at [TecnoSpeed](https://tecnospeed.com.br/).
+I'm currently SRE and mid-level back-end developer at [TecnoSpeed](https://tecnospeed.com.br/).
 
 <h2>🎓 Academic</h2>
 I'm currently graduating at Estacio University as software engineer.
