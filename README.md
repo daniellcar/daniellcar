@@ -1,6 +1,6 @@
 <h2>📖 About me</h2>
 
-Hi, my name is Daniel Carvalho. I'm from Brazil and I'm software engineer, and sometimes, musician 🎵 and soccer player ⚽.
+Hi, my name is Daniel Carvalho. I'm from Brazil and I'm software engineer, and sometimes, musician 🎵 and football player ⚽.
 
 I'm 23, and I study web and mobile development since 2017.
 
