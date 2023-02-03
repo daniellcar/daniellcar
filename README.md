@@ -43,7 +43,7 @@ Technologies:
 | Google Cloud | Average     |
 | GIT          | Experient   |
 
-Good practices and Design Patterns:
+Good practices and design patterns:
 
 - OOP
 - Functional Programming
