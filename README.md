@@ -57,9 +57,9 @@ Good practices and design patterns:
 
 <h2>📞 Contact</h2>
 <p align="center">
-    <a href="https://github.com/daniellcprg"><img src="Github.png" alt="GitHub"/></a>
+    <a href="https://github.com/daniellcar"><img src="Github.png" alt="GitHub"/></a>
     <a href="https://www.linkedin.com/in/daniellcprg"><img src="Linkedin.png" alt="Linkedin"/></a>
-    <a href="mailto:daniellc.prg@gmail.com"><img src="Email.png" alt="Email"/></a>
+    <a href="mailto:contato@danielcl.com"><img src="Email.png" alt="Email"/></a>
 </p>
 
 ------------
