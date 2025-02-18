@@ -8,7 +8,7 @@ I'm always open to new knowledge.
 
 <h2>💼 Job</h2>
 
-I'm currently software engineer at [Rubcube](https://www.rubcube.com/).
+I'm currently software engineer at [BankFactory](https://www.bankfactory.com.br/).
 
 <h2>🎓 Academic</h2>
 I'm currently graduating at Estacio University as software engineer.
